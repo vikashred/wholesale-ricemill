@@ -1,26 +1,31 @@
-Wholesale Rice Mill CRM Application
-Overview
-This repository contains the code and documentation for the Wholesale Rice Mill CRM Application. The project leverages Salesforce to create a comprehensive CRM system tailored for managing and operating a rice mill on a wholesale level. The application includes features such as supplier management, rice mill inventory tracking, consumer management, and detailed reporting and dashboards.
+# Wholesale Rice Mill CRM Application
 
-Features
-Supplier Management: Track and manage supplier information and interactions.
-Rice Mill Inventory: Maintain detailed records of rice stocks, including types and quantities.
-Consumer Management: Manage consumer information and order history.
-Sales and Order Processing: Efficiently handle customer orders from receipt to fulfillment.
-Reporting and Dashboards: Generate and share detailed reports and dashboards for inventory, sales, and orders.
-Installation
-Salesforce Setup
-Create Developer Account:
+## Overview
+This repository contains the code and documentation for the **Wholesale Rice Mill CRM Application**. The project leverages Salesforce to create a comprehensive CRM system tailored for managing and operating a rice mill on a wholesale level. The application includes features such as supplier management, rice mill inventory tracking, consumer management, and detailed reporting and dashboards.
 
-Sign up for a Salesforce Developer Account.
-Activate Account:
+## Features
+- **Supplier Management**: Track and manage supplier information and interactions.
+- **Rice Mill Inventory**: Maintain detailed records of rice stocks, including types and quantities.
+- **Consumer Management**: Manage consumer information and order history.
+- **Sales and Order Processing**: Efficiently handle customer orders from receipt to fulfillment.
+- **Reporting and Dashboards**: Generate and share detailed reports and dashboards for inventory, sales, and orders.
 
-Follow the instructions in the activation email sent by Salesforce.
-Clone the Repository:
+## Installation
 
-git clone https://github.com/Rahul172509/wholesale_rice_mill.git
+### Salesforce Setup
+
+1. **Create Developer Account**:  
+   Sign up for a [Salesforce Developer Account](https://developer.salesforce.com/signup).
+   
+2. **Activate Account**:  
+   Follow the instructions in the activation email sent by Salesforce.
+
+3. **Clone the Repository**:  
+   ```bash
+   git clone https://github.com/Rahul172509/wholesale_rice_mill.git
 Navigate to the Project Directory:
-
+bash
+Copy code
 cd wholesale_rice_mill
 Objects
 Supplier Object
@@ -53,7 +58,7 @@ Users
 Create User
 Create Additional Users
 Permission Sets
-Create Organization-Wide Default (OWD) Settings
+Create Organization-Wide Default (OWD) Settings.
 Reports
 Create Report
 Share Report with Owner
@@ -68,16 +73,34 @@ We welcome contributions from the community. To contribute:
 
 Fork the repository.
 Create a new branch:
+bash
+Copy code
 git checkout -b feature-branch
 Make your changes and commit them:
+bash
+Copy code
 git commit -m "Add new feature"
 Push to the branch:
+bash
+Copy code
 git push origin feature-branch
 Create a pull request explaining your changes.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
-For any inquiries or feedback, please contact vikashred.
+For any inquiries or feedback, please contact Rahul172509.
 
 Thank you for using the Wholesale Rice Mill CRM Application! We hope it helps you manage your rice milling operations efficiently.
+
+rust
+Copy code
+
+This format follows Markdown conventions for GitHub's `README.md` files, providing clear headings, code blocks, and links where necessary.
+
+
+
+
+
+
+
